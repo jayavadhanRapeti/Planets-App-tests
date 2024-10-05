@@ -1,0 +1,35 @@
+/* Write your CSS here */
+
+.Planets_app_heading {
+  font-family: roboto;
+  font-size: 42px;
+  font-weight: 600;
+  color: #05acff;
+  margin-bottom: 70px;
+}
+
+.planet_card {
+}
+
+.planet_image {
+  width: 450px;
+  margin: 0 auto;
+}
+
+.planet_name {
+  font-family: roboto;
+  font-size: 34px;
+  font-weight: 600;
+  color: #f8fafc;
+  margin-top: 50px;
+}
+
+.planet_description {
+  font-family: roboto;
+  font-size: 24px;
+  color: #f1f5f9;
+  opacity: 0.8;
+  margin: 0 auto;
+  margin-top: 50px;
+  width: 900px;
+}
